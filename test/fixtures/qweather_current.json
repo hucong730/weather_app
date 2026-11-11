@@ -1,0 +1,17 @@
+{
+  "metadata": {"tag": "current-tag", "attributions": ["QWeather"]},
+  "condition": {"text": "少云", "code": "102"},
+  "temperature": {"value": 31.71, "unit": "°C"},
+  "feelsLike": {"value": 33.64, "unit": "°C"},
+  "humidity": 0.69,
+  "wind": {
+    "direction": {"degree": 226, "compass": "sw"},
+    "speed": {"value": 4.74, "unit": "m/s"},
+    "scale": 3
+  },
+  "precipitation": {
+    "amount": {"value": 0.2, "unit": "mm"},
+    "intensity": {"value": 0.2, "unit": "mm/h"},
+    "type": "rain"
+  }
+}

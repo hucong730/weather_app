@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Weather App (QWeather)",
+      "request": "launch",
+      "type": "dart",
+      "cwd": "${workspaceFolder}",
+      "program": "${workspaceFolder}/lib/main.dart",
+      "args": [
+        "--dart-define-from-file",
+        "${workspaceFolder}/qweather.local.json"
+      ]
+    }
+  ]
+}

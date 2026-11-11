@@ -1,0 +1,22 @@
+{
+  "code": "200",
+  "location": [
+    {
+      "name": "孝感",
+      "id": "101220101",
+      "lat": "30.92689",
+      "lon": "113.92221",
+      "adm2": "孝感",
+      "adm1": "湖北省",
+      "country": "中国",
+      "tz": "Asia/Shanghai",
+      "utcOffset": "+08:00",
+      "type": "city",
+      "rank": "35"
+    }
+  ],
+  "refer": {
+    "sources": ["QWeather"],
+    "license": ["QWeather Developers License"]
+  }
+}

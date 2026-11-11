@@ -1,0 +1,25 @@
+{
+  "metadata": {"tag": "daily-tag", "attributions": ["QWeather"]},
+  "days": [
+    {
+      "forecastStartTime": "2024-08-10T22:00Z",
+      "forecastEndTime": "2024-08-11T22:00Z",
+      "temperatureMax": {"value": 29.94, "unit": "°C"},
+      "temperatureMin": {"value": 20.93, "unit": "°C"},
+      "daytime": {
+        "condition": {"text": "小雨", "code": "305"},
+        "precipitation": {"amount": {"value": 0.75, "unit": "mm"}, "probability": 0.64, "type": "rain"}
+      }
+    },
+    {
+      "forecastStartTime": "2024-08-11T22:00Z",
+      "forecastEndTime": "2024-08-12T22:00Z",
+      "temperatureMax": {"value": 29.24, "unit": "°C"},
+      "temperatureMin": {"value": 19.72, "unit": "°C"},
+      "daytime": {
+        "condition": {"text": "晴间多云", "code": "103"},
+        "precipitation": {"amount": {"value": 0, "unit": "mm"}, "probability": 0, "type": "none"}
+      }
+    }
+  ]
+}

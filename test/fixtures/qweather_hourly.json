@@ -1,0 +1,17 @@
+{
+  "metadata": {"tag": "hourly-tag", "attributions": ["QWeather"]},
+  "hours": [
+    {
+      "forecastTime": "2024-05-31T03:00Z",
+      "condition": {"text": "阴", "code": "104"},
+      "temperature": {"value": 31.12, "unit": "°C"},
+      "precipitation": {"amount": {"value": 0.09, "unit": "mm"}, "probability": 0.31, "type": "rain"}
+    },
+    {
+      "forecastTime": "2024-05-31T04:00Z",
+      "condition": {"text": "多云", "code": "101"},
+      "temperature": {"value": 31.01, "unit": "°C"},
+      "precipitation": {"amount": {"value": 0, "unit": "mm"}, "probability": 0.3, "type": "rain"}
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "tag": "air-quality-tag",
+    "attributions": ["https://developer.qweather.com/attribution.html"]
+  },
+  "indexes": [
+    {
+      "code": "qaqi",
+      "name": "QAQI",
+      "aqi": 0.9,
+      "aqiDisplay": "0.9",
+      "level": "1",
+      "category": "Excellent"
+    },
+    {
+      "code": "cn-mee",
+      "name": "AQI",
+      "aqi": 62,
+      "aqiDisplay": "62",
+      "level": "2",
+      "category": "良"
+    }
+  ]
+}
